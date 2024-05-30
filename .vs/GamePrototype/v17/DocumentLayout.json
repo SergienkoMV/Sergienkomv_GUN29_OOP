@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|g:\\\u0443\u0447\u0435\u0431\u0430\\gamedev\\\u043A\u0443\u0440\u0441 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A unity3d netologia\\gameprototype\\units\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:units\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|g:\\\u0443\u0447\u0435\u0431\u0430\\gamedev\\\u043A\u0443\u0440\u0441 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A unity3d netologia\\gameprototype\\units\\goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:units\\goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|g:\\\u0443\u0447\u0435\u0431\u0430\\gamedev\\\u043A\u0443\u0440\u0441 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A unity3d netologia\\gameprototype\\units\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:units\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|g:\\\u0443\u0447\u0435\u0431\u0430\\gamedev\\\u043A\u0443\u0440\u0441 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A unity3d netologia\\gameprototype\\items\\economicitems\\healthpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\economicitems\\healthpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|g:\\\u0443\u0447\u0435\u0431\u0430\\gamedev\\\u043A\u0443\u0440\u0441 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A unity3d netologia\\gameprototype\\utils\\unitfactorydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:utils\\unitfactorydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|g:\\\u0443\u0447\u0435\u0431\u0430\\gamedev\\\u043A\u0443\u0440\u0441 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A unity3d netologia\\gameprototype\\units\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:units\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|g:\\\u0443\u0447\u0435\u0431\u0430\\gamedev\\\u043A\u0443\u0440\u0441 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A unity3d netologia\\gameprototype\\combat\\combatmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:combat\\combatmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|g:\\\u0443\u0447\u0435\u0431\u0430\\gamedev\\\u043A\u0443\u0440\u0441 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A unity3d netologia\\gameprototype\\utils\\dungeonbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:utils\\dungeonbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|g:\\\u0443\u0447\u0435\u0431\u0430\\gamedev\\\u043A\u0443\u0440\u0441 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A unity3d netologia\\gameprototype\\dungeon\\dungeonroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:dungeon\\dungeonroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|g:\\\u0443\u0447\u0435\u0431\u0430\\gamedev\\\u043A\u0443\u0440\u0441 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A unity3d netologia\\gameprototype\\game\\gameloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:game\\gameloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|g:\\\u0443\u0447\u0435\u0431\u0430\\gamedev\\\u043A\u0443\u0440\u0441 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A unity3d netologia\\gameprototype\\dungeon\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:dungeon\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|g:\\\u0443\u0447\u0435\u0431\u0430\\gamedev\\\u043A\u0443\u0440\u0441 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A unity3d netologia\\gameprototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|g:\\\u0443\u0447\u0435\u0431\u0430\\gamedev\\\u043A\u0443\u0440\u0441 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A unity3d netologia\\gameprototype\\combat\\rockpaperscissors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:combat\\rockpaperscissors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|g:\\\u0443\u0447\u0435\u0431\u0430\\gamedev\\\u043A\u0443\u0440\u0441 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A unity3d netologia\\gameprototype\\items\\economicitems\\grindstone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\economicitems\\grindstone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|g:\\\u0443\u0447\u0435\u0431\u0430\\gamedev\\\u043A\u0443\u0440\u0441 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A unity3d netologia\\gameprototype\\items\\economicitems\\gold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\economicitems\\gold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|g:\\\u0443\u0447\u0435\u0431\u0430\\gamedev\\\u043A\u0443\u0440\u0441 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A unity3d netologia\\gameprototype\\utils\\gameconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:utils\\gameconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|g:\\\u0443\u0447\u0435\u0431\u0430\\gamedev\\\u043A\u0443\u0440\u0441 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A unity3d netologia\\gameprototype\\items\\economicitems\\economicitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\economicitems\\economicitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|g:\\\u0443\u0447\u0435\u0431\u0430\\gamedev\\\u043A\u0443\u0440\u0441 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A unity3d netologia\\gameprototype\\items\\equipitems\\armour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\equipitems\\armour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|g:\\\u0443\u0447\u0435\u0431\u0430\\gamedev\\\u043A\u0443\u0440\u0441 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A unity3d netologia\\gameprototype\\items\\equipitems\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\equipitems\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|g:\\\u0443\u0447\u0435\u0431\u0430\\gamedev\\\u043A\u0443\u0440\u0441 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A unity3d netologia\\gameprototype\\utils\\equipslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:utils\\equipslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|g:\\\u0443\u0447\u0435\u0431\u0430\\gamedev\\\u043A\u0443\u0440\u0441 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A unity3d netologia\\gameprototype\\items\\equipitems\\equipitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\equipitems\\equipitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|g:\\\u0443\u0447\u0435\u0431\u0430\\gamedev\\\u043A\u0443\u0440\u0441 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A unity3d netologia\\gameprototype\\items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:15:15.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameLoop.cs",
+              "DocumentMoniker": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Game\\GameLoop.cs",
+              "RelativeDocumentMoniker": "Game\\GameLoop.cs",
+              "ToolTip": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Game\\GameLoop.cs",
+              "RelativeToolTip": "Game\\GameLoop.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:15:15.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Dungeon\\Direction.cs",
+              "RelativeDocumentMoniker": "Dungeon\\Direction.cs",
+              "ToolTip": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Dungeon\\Direction.cs",
+              "RelativeToolTip": "Dungeon\\Direction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:15:15.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DungeonBuilder.cs",
+              "DocumentMoniker": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Utils\\DungeonBuilder.cs",
+              "RelativeDocumentMoniker": "Utils\\DungeonBuilder.cs",
+              "ToolTip": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Utils\\DungeonBuilder.cs",
+              "RelativeToolTip": "Utils\\DungeonBuilder.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:15:15.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DungeonRoom.cs",
+              "DocumentMoniker": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Dungeon\\DungeonRoom.cs",
+              "RelativeDocumentMoniker": "Dungeon\\DungeonRoom.cs",
+              "ToolTip": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Dungeon\\DungeonRoom.cs",
+              "RelativeToolTip": "Dungeon\\DungeonRoom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:15:15.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitFactoryDemo.cs",
+              "DocumentMoniker": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Utils\\UnitFactoryDemo.cs",
+              "RelativeDocumentMoniker": "Utils\\UnitFactoryDemo.cs",
+              "ToolTip": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Utils\\UnitFactoryDemo.cs",
+              "RelativeToolTip": "Utils\\UnitFactoryDemo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:15:15.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Units\\Player.cs",
+              "RelativeDocumentMoniker": "Units\\Player.cs",
+              "ToolTip": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Units\\Player.cs",
+              "RelativeToolTip": "Units\\Player.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAD0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:15:15.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Goblin.cs",
+              "DocumentMoniker": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Units\\Goblin.cs",
+              "RelativeDocumentMoniker": "Units\\Goblin.cs",
+              "ToolTip": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Units\\Goblin.cs",
+              "RelativeToolTip": "Units\\Goblin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:15:15.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Units\\Unit.cs",
+              "RelativeDocumentMoniker": "Units\\Unit.cs",
+              "ToolTip": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Units\\Unit.cs",
+              "RelativeToolTip": "Units\\Unit.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:15:15.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CombatManager.cs",
+              "DocumentMoniker": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Combat\\CombatManager.cs",
+              "RelativeDocumentMoniker": "Combat\\CombatManager.cs",
+              "ToolTip": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Combat\\CombatManager.cs",
+              "RelativeToolTip": "Combat\\CombatManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:15:15.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Units\\Inventory.cs",
+              "RelativeDocumentMoniker": "Units\\Inventory.cs",
+              "ToolTip": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Units\\Inventory.cs",
+              "RelativeToolTip": "Units\\Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:15:15.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EconomicItem.cs",
+              "DocumentMoniker": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Items\\EconomicItems\\EconomicItem.cs",
+              "RelativeDocumentMoniker": "Items\\EconomicItems\\EconomicItem.cs",
+              "ToolTip": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Items\\EconomicItems\\EconomicItem.cs",
+              "RelativeToolTip": "Items\\EconomicItems\\EconomicItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:15:15.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Armour.cs",
+              "DocumentMoniker": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Items\\EquipItems\\Armour.cs",
+              "RelativeDocumentMoniker": "Items\\EquipItems\\Armour.cs",
+              "ToolTip": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Items\\EquipItems\\Armour.cs",
+              "RelativeToolTip": "Items\\EquipItems\\Armour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:15:15.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Items\\EquipItems\\Weapon.cs",
+              "RelativeDocumentMoniker": "Items\\EquipItems\\Weapon.cs",
+              "ToolTip": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Items\\EquipItems\\Weapon.cs",
+              "RelativeToolTip": "Items\\EquipItems\\Weapon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:15:15.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EquipSlot.cs",
+              "DocumentMoniker": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Utils\\EquipSlot.cs",
+              "RelativeDocumentMoniker": "Utils\\EquipSlot.cs",
+              "ToolTip": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Utils\\EquipSlot.cs",
+              "RelativeToolTip": "Utils\\EquipSlot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:15:15.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameConstants.cs",
+              "DocumentMoniker": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Utils\\GameConstants.cs",
+              "RelativeDocumentMoniker": "Utils\\GameConstants.cs",
+              "ToolTip": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Utils\\GameConstants.cs",
+              "RelativeToolTip": "Utils\\GameConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:15:15.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Gold.cs",
+              "DocumentMoniker": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Items\\EconomicItems\\Gold.cs",
+              "RelativeDocumentMoniker": "Items\\EconomicItems\\Gold.cs",
+              "ToolTip": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Items\\EconomicItems\\Gold.cs",
+              "RelativeToolTip": "Items\\EconomicItems\\Gold.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:15:15.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HealthPotion.cs",
+              "DocumentMoniker": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Items\\EconomicItems\\HealthPotion.cs",
+              "RelativeDocumentMoniker": "Items\\EconomicItems\\HealthPotion.cs",
+              "ToolTip": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Items\\EconomicItems\\HealthPotion.cs",
+              "RelativeToolTip": "Items\\EconomicItems\\HealthPotion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:15:15.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EquipItem.cs",
+              "DocumentMoniker": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Items\\EquipItems\\EquipItem.cs",
+              "RelativeDocumentMoniker": "Items\\EquipItems\\EquipItem.cs",
+              "ToolTip": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Items\\EquipItems\\EquipItem.cs",
+              "RelativeToolTip": "Items\\EquipItems\\EquipItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:15:15.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Item.cs",
+              "DocumentMoniker": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Items\\Item.cs",
+              "RelativeDocumentMoniker": "Items\\Item.cs",
+              "ToolTip": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Items\\Item.cs",
+              "RelativeToolTip": "Items\\Item.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA5wBAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:15:15.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Grindstone.cs",
+              "DocumentMoniker": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Items\\EconomicItems\\Grindstone.cs",
+              "RelativeDocumentMoniker": "Items\\EconomicItems\\Grindstone.cs",
+              "ToolTip": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Items\\EconomicItems\\Grindstone.cs",
+              "RelativeToolTip": "Items\\EconomicItems\\Grindstone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:15:15.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RockPaperScissors.cs",
+              "DocumentMoniker": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Combat\\RockPaperScissors.cs",
+              "RelativeDocumentMoniker": "Combat\\RockPaperScissors.cs",
+              "ToolTip": "G:\\\u0423\u0447\u0435\u0431\u0430\\GameDev\\\u041A\u0443\u0440\u0441 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Unity3d Netologia\\GamePrototype\\Combat\\RockPaperScissors.cs",
+              "RelativeToolTip": "Combat\\RockPaperScissors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:15:15.436Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
