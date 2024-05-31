@@ -68,7 +68,7 @@ namespace GamePrototype.Units
                     //inventory is full
                     return;
                 }
-                Console.WriteLine($"You loot the {unit.Inventory.Items[i]}");
+                Console.WriteLine($"You found the {unit.Inventory.Items[i]}"); //add
             }
         }
     }

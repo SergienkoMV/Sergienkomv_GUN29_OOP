@@ -18,9 +18,14 @@ namespace GamePrototype.Units
             }
             
             _items.Add(item);
-            Console.WriteLine($"You picked up the {item.Name}");
+            Console.WriteLine($"{item.Name} added to inventory");
             return true;
         }
+
+        //public bool TryCahnge(Item item, Item ItemForChange) //add
+        //{
+        //    return true;
+        //}
 
         public bool TryRemove(Item item) 
         {

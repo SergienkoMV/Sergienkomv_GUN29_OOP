@@ -11,6 +11,7 @@ namespace GamePrototype.Game
         private Unit _player;
         private DungeonRoom _dungeon;
         private readonly CombatManager _combatManager = new CombatManager();
+        private DifficultyLevel _difficultyLevel;
         
         public void StartGame() 
         {
@@ -24,10 +25,29 @@ namespace GamePrototype.Game
         private void Initialize()
         {
             Console.WriteLine("Welcome, player!");
-            _dungeon = DungeonBuilder.BuildDungeon();
+            //Реализация зависит от уровня сложности ((easy, hard)). Уровень сложности задаётся в начале (через enum) игроком.
+            _difficultyLevel = ChooseDifficult();
+
+            switch (_difficultyLevel)
+            {
+                case DifficultyLevel.Easy:
+                    var easyDungeon = new EasyDungeon("Small dungeon");
+                    _dungeon = easyDungeon.BuildDungeon();
+                    break;
+                case DifficultyLevel.Normal:
+                    var normalDungeon = new NormalDungeon("Average dungeon");
+                    _dungeon = normalDungeon.BuildDungeon();
+                    break;
+                case DifficultyLevel.Hard:
+                    var hardDungeon = new HardDungeon("Large dungeon");
+                    _dungeon = hardDungeon.BuildDungeon();
+                    break;
+            }
+
             Console.WriteLine("Enter your name");
             _player = UnitFactoryDemo.CreatePlayer(Console.ReadLine());
             Console.WriteLine($"Hello {_player.Name}");
+
         }
 
         private void StartGameLoop()
@@ -74,10 +94,12 @@ namespace GamePrototype.Game
             success = true;
             if (currentRoom.Loot != null) 
             {
+                Console.WriteLine($"You are find {currentRoom.Loot.Name}");
                 _player.AddItemToInventory(currentRoom.Loot);
             }
             if (currentRoom.Enemy != null) 
             {
+                Console.WriteLine($"{currentRoom.Enemy.Name} is here");
                 if (_combatManager.StartCombat(_player, currentRoom.Enemy) == _player)
                 {
                     _player.HandleCombatComplete();
@@ -104,7 +126,25 @@ namespace GamePrototype.Game
             }
         }
 
-        
+        private DifficultyLevel ChooseDifficult()
+        {
+            
+            while (true)
+            {
+                Console.WriteLine("Choose the difficult: 1 - Easy, 2 - Normal, 3 - Hard");
+                if (Enum.TryParse(Console.ReadLine(), out DifficultyLevel value))
+                {
+                    //Почему-то попадает сюда при любом значении. По идее не должно. Не нашел альтернативы, как сделать проверку.
+                    _difficultyLevel = value;
+                    Console.WriteLine($"Difficulty level is {_difficultyLevel}");
+                    return _difficultyLevel;
+                }
+                else
+                {
+                    Console.WriteLine("Wrong level!");
+                }
+            }        
+        }
         #endregion
     }
 }

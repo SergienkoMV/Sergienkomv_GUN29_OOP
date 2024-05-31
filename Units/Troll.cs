@@ -1,10 +1,9 @@
 ﻿namespace GamePrototype.Units
 {
-    public sealed class Goblin : Unit
+    internal class Troll : Unit
     {
-        public Goblin(string name, uint health, uint maxHealth, uint baseDamage) : base(name, health, maxHealth, baseDamage)
+        public Troll(string name, uint health, uint maxHealth, uint baseDamage) : base(name, health, maxHealth, baseDamage)
         {
-           
         }
 
         public override uint GetUnitDamage() => BaseDamage;

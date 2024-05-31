@@ -27,3 +27,4 @@ G:\Учеба\GameDev\Курс Разработчик Unity3d Netologia\GameProt
 G:\Учеба\GameDev\Курс Разработчик Unity3d Netologia\GamePrototype\obj\Debug\net6.0\GamePrototype.pdb
 G:\Учеба\GameDev\Курс Разработчик Unity3d Netologia\GamePrototype\obj\Debug\net6.0\GamePrototype.genruntimeconfig.cache
 G:\Учеба\GameDev\Курс Разработчик Unity3d Netologia\GamePrototype\obj\Debug\net6.0\ref\GamePrototype.dll
+G:\Учеба\GameDev\Курс Разработчик Unity3d Netologia\GamePrototype\obj\Debug\net6.0\GamePrototype.sourcelink.json
