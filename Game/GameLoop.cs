@@ -2,6 +2,7 @@
 using GamePrototype.Dungeon;
 using GamePrototype.Units;
 using GamePrototype.Utils;
+using System.Xml.Linq;
 
 namespace GamePrototype.Game
 {
@@ -42,13 +43,21 @@ namespace GamePrototype.Game
                     return;
                 }
                 DisplayRouteOptions(currentRoom);
-                while (true) 
+                while (true)
                 {
-                    if (Enum.TryParse<Direction>(Console.ReadLine(), out var direction) ) 
+                    if (Enum.TryParse<Direction>(Console.ReadLine(), out var direction))
                     {
-                        currentRoom = currentRoom.Rooms[direction];
-                        break;
-                    }
+                        if (currentRoom.Rooms.ContainsKey(direction)) //add если было указано значение, которое есть в словаре, но для него отсутствовал переход в следующую комнату, была ошибка
+                        {
+                            currentRoom = currentRoom.Rooms[direction];
+                            Console.WriteLine($"You are in the {currentRoom.Name} room");
+                            break;
+                        }
+                        else
+                        { 
+                            Console.WriteLine("Wrong direction!");
+                        }
+                    }    
                     else 
                     {
                         Console.WriteLine("Wrong direction!");

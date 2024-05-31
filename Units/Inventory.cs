@@ -18,6 +18,7 @@ namespace GamePrototype.Units
             }
             
             _items.Add(item);
+            Console.WriteLine($"You picked up the {item.Name}");
             return true;
         }
 
@@ -28,6 +29,7 @@ namespace GamePrototype.Units
                 return false;
             }
             _items.Remove(item);
+            Console.WriteLine($"The {item.Name} removed from inventory");
             return true;
         }
 

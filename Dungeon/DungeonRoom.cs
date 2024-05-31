@@ -32,7 +32,7 @@ namespace GamePrototype.Dungeon
                 Console.WriteLine($"Room {Name} already has room for {direction.ToString()}");
                 return false;
             }
-            Rooms.Add(direction, room);
+            Rooms.Add(direction, room);            
             return true;
         }
     }

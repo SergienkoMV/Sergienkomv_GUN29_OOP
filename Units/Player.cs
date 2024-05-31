@@ -30,7 +30,10 @@ namespace GamePrototype.Units
                 if (items[i] is EconomicItem economicItem) 
                 {
                     UseEconomicItem(economicItem);
-                    Inventory.TryRemove(items[i]);
+                    if (Inventory.TryRemove(items[i]))  //change
+                    {
+                        i--; //add (если удается удалить предмет, то в итераторе становится на 1 меньше и тогда +1 предмет не попадает в перебор)
+                    }
                 }
             }
         }
@@ -49,7 +52,14 @@ namespace GamePrototype.Units
         {
             if (economicItem is HealthPotion healthPotion) 
             {
-                Health += healthPotion.HealthRestore;
+                Health += healthPotion.HealthRestore; //не учитывается максимальное здоровье и HP становится выше максимального
+            } 
+            else if (economicItem is Grindstone grindstone) //add
+            {
+                if (_equipment.TryGetValue(EquipSlot.Armour, out var armor)) //add
+                {
+                    armor.Repair(grindstone.DurabilityRestore); //add
+                }
             }
         }
 
@@ -58,6 +68,9 @@ namespace GamePrototype.Units
             if (_equipment.TryGetValue(EquipSlot.Armour, out var item) && item is Armour armour) 
             {
                 damage -= (uint)(damage * (armour.Defence / 100f));
+                
+                //Сделать так, чтобы броня после каждого получения урона теряла один пункт прочности.
+                armour.ReduceDurability(1);                
             }
             return damage;
         }
